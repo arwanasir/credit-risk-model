@@ -23,7 +23,7 @@ share/python-wheels/
 *.egg
 
 # MLflow
-mlflow/
+
 mlruns/
 mlflow.db
 .mlflow/
@@ -44,7 +44,7 @@ data/processed/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+
 
 # IDE
 .vscode/
