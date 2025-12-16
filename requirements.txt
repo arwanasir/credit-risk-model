@@ -5,3 +5,11 @@ seaborn
 jupyter
 scikit-learn
 spicy
+xverse
+mlflow
+pytest
+fastapi 
+uvicorn 
+flake8
+black
+pydantic
