@@ -1,6 +1,6 @@
 # src/train.py
 import pandas as pd
-import numpy as np
+
 from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier

@@ -1,4 +1,4 @@
-from os import name
+# from os import name
 import mlflow
 import mlflow.sklearn
 from sklearn.model_selection import train_test_split
